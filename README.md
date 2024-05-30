@@ -1,1 +1,1 @@
-### Compilado de códigos comentados e resumos feitos a partir do <a href='https://www.youtube.com/playlist?list=PL-t7zzWJWPtzhZtI-bWWHFtCfxtjmBdIW'>curso</a> designado para a turma avançada do Clube de Ciência de Dados. Feedbacks são muito bem-vindos. Enviar para Bernardo Pinheiro no Teams.
+Compilado de códigos comentados e resumos feitos a partir do <a href='https://www.youtube.com/playlist?list=PL-t7zzWJWPtzhZtI-bWWHFtCfxtjmBdIW'>curso</a> designado para a turma avançada do Clube de Ciência de Dados. Feedbacks são muito bem-vindos. Enviar para Bernardo Pinheiro no Teams.
